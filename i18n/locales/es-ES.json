@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "página de inicio",
+    "button": "ir a acerca de"
+  },
+  "about": {
+    "title": "acerca de",
+    "button": "ir a inicio"
+  }
+}
