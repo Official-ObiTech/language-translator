@@ -8,5 +8,8 @@ const localePath = useLocalePath();
     <NuxtLink :to="localePath('/')">
       {{ $t("about.button") }}
     </NuxtLink>
+    <NuxtLink :to="localePath('/')">
+      {{ $t("about.button") }}
+    </NuxtLink>
   </div>
 </template>
