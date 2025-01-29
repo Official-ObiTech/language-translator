@@ -16,7 +16,7 @@ import LangSwitcher from "./components/langSwitcher.vue";
 </template>
 
 <style>
-/* body {
+body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,5 +37,5 @@ a {
   position: absolute;
   top: 20px;
   right: 20px;
-} */
+}
 </style>
